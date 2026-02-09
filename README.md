@@ -1,9 +1,4 @@
-Here’s a **clean, professional README** you can drop straight into your repo.
-It’s written like a real-world project (not AI-ish, not fluffy).
 
-You can copy-paste this into `README.md`.
-
----
 
 # 🧭 Choose Your Own Adventure – AI Story Generator
 
