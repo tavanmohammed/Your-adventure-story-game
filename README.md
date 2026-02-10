@@ -184,10 +184,16 @@ Content-Type: application/json
 * Story sharing
 * Image generation per story node
 
----
 
-## 👤 Author
+<img width="1392" height="772" alt="Screenshot 2026-02-08 at 7 55 52 PM" src="https://github.com/user-attachments/assets/c8d4d8c0-51df-4dbb-ae9f-2691fb30f95b" />
+<img width="1408" height="777" alt="Screenshot 2026-02-08 at 7 56 10 PM" src="https://github.com/user-attachments/assets/65871902-fbe8-41a2-b253-4cafedc877f0" />
+<img width="1400" height="775" alt="Screenshot 2026-02-08 at 7 57 08 PM" src="https://github.com/user-attachments/assets/d75ede4b-741d-406d-8c2e-b1766f9a3275" />
 
-**Tavan Mohammed**
-Full-stack developer & software engineering student
+<img width="1392" height="774" alt="Screenshot 2026-02-08 at 7 57 25 PM" src="https://github.com/user-attachments/assets/9316efac-1a13-43b1-aa0a-da11be89c09c" />
+
+<img width="1429" height="777" alt="Screenshot 2026-02-08 at 7 58 49 PM" src="https://github.com/user-attachments/assets/02a3af2a-d605-42ec-931b-3396305e44b0" />
+
+
+
+
 
